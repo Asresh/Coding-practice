@@ -1,0 +1,1 @@
+Responsive webdesign concepts, coding practice and mini projects.
